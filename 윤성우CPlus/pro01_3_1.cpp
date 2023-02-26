@@ -9,7 +9,7 @@ int BoxVolume(int length, int width) {
 }
 
 int BoxVolume(int length) {
-	return length * 1 + 1;
+	return length * 1 * 1;
 }
 
 
